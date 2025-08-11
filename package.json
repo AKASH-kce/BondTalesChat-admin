@@ -1,0 +1,20 @@
+{
+  "name": "bondtaleschat-admin",
+  "version": "1.0.0",
+  "description": "A real-time chat application that keeps conversations flowing — where every message leaves a little ‘tail’ of connection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKASH-kce/BondTalesChat-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKASH-kce/BondTalesChat-admin/issues"
+  },
+  "homepage": "https://github.com/AKASH-kce/BondTalesChat-admin#readme"
+}
